@@ -1,0 +1,31 @@
+.pict{
+	filter:blur(5px);
+}
+.pict-1{
+	filter:contrast(200%);
+}
+.pict-2{
+	filter:grayscale(80%);
+}
+.pict-3{
+	filter:hue-scale(90deg);
+}
+.pict-4{
+	filter:drop-shadow(15px 15px 40px green) invert(75%);
+}
+.pict-5{
+	filter:blur(5px);
+}
+
+.pict-6{
+	filter:brightness(100%);
+}
+.pict-7{
+	filter:opacity(8);
+}
+.pict-8{
+	filter:invert(100%);
+}
+h2{
+	text-decoratin:underline dotted;
+}
